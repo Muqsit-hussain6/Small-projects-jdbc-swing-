@@ -1,1 +1,1 @@
-# Smaill-projects-jdbc-swing-
+# Small-projects-jdbc-swing-
